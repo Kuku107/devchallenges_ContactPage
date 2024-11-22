@@ -3,7 +3,6 @@
     --form-select-padding-right: 18px;
 }
 
-.form--control > input,
 .form--control > textarea,
 .form--control > select,
 .form--control > button {
@@ -29,7 +28,7 @@
 
 .form__input::placeholder {
     font-size: 1rem;
-    color: #111729;
+    color: #CDD5E0;
     border: none;
 }
 
